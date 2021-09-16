@@ -6,4 +6,4 @@
 - 📚 Atualmente estou estudando Python 3
 </n> 
 <a href = "https://www.instagram.com/gabriel._.sales/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "https://www.instagram.com/gabriel._.sales/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/gabriel-sales-b374071b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
